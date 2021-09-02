@@ -13,7 +13,7 @@ h1{
     padding:20px 20px;
 }
 div.first{
-    background-image:url("/photo-1474314170901-f351b68f544f.jpg");
+    background-image:url("photo-1474314170901-f351b68f544f.jpg");
     
     
     min-height: 100%;
@@ -26,21 +26,21 @@ div.first{
     letter-spacing: 8px;
 }
 div.three{
-    background-image:url("/photo-1605051538177-72c289389de5.jpg");
+    background-image:url("photo-1605051538177-72c289389de5.jpg");
     min-height: 400px;
     
 }
 
 div.five{
-    background-image:url("/new.jpg");
+    background-image:url("new.jpg");
     min-height: 600px;
 }
 div.six{
-    background-image:url("/photo-1595853812565-a250fa0b42ce.jpg");
+    background-image:url("photo-1595853812565-a250fa0b42ce.jpg");
     min-height: 400px;
 }
 div.seven{
-    background-image: url("/photo-1610981648401-2d89a8aa72dd.jpg");
+    background-image: url("photo-1610981648401-2d89a8aa72dd.jpg");
     min-height: 400px;
 }
 .jy{
